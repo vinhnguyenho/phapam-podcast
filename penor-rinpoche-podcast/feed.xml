@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Penor Rinpoche Podcast</title>
+<link>https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/</link>
+<atom:link href="https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<language>vi</language>
+<description>Sách nói do Đức Pháp Vương Penor Rinpoche</description>
+<itunes:summary>Sách nói do Đức Pháp Vương Penor Rinpoche</itunes:summary>
+<itunes:author>Kelsang Gyatso</itunes:author>
+<itunes:owner><itunes:name>Kelsang Gyatso</itunes:name><itunes:email>vinhnguyenho@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/cover.jpg"/>
+<image><url>https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/cover.jpg</url><title>Penor Rinpoche Podcast</title><link>https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/</link></image>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Buddhism"/></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<lastBuildDate>Thu, 29 Oct 2026 17:35:58 GMT</lastBuildDate>
+<item>
+<title>Tập 1: Viên Kim Cương, Mặt Trời và Cây Thuốc: Vì sao cần luyện tâm giữa thời suy đồi</title>
+<description>Tập mở đầu giới thiệu cuốn &apos;Universal Compassion&apos; và bản văn gốc &apos;Luyện Tâm Bảy Điểm&apos; của Bồ Tát Geshe Chekhawa: từ ước muốn hạnh phúc chung của mọi loài, câu chuyện hai câu kệ &apos;nhận phần thua về mình, dâng phần thắng cho người&apos;, đến ba hình ảnh kim cương, mặt trời, cây thuốc. Minh và Bamboo cùng bàn vì sao chính thời đại nhiều khó khăn, với năm sự suy đồi, lại là mảnh đất để chuyển hóa tâm, và phác họa lộ trình bảy điểm mà cả series sẽ đi qua.</description>
+<itunes:summary>Tập mở đầu giới thiệu cuốn &apos;Universal Compassion&apos; và bản văn gốc &apos;Luyện Tâm Bảy Điểm&apos; của Bồ Tát Geshe Chekhawa: từ ước muốn hạnh phúc chung của mọi loài, câu chuyện hai câu kệ &apos;nhận phần thua về mình, dâng phần thắng cho người&apos;, đến ba hình ảnh kim cương, mặt trời, cây thuốc. Minh và Bamboo cùng bàn vì sao chính thời đại nhiều khó khăn, với năm sự suy đồi, lại là mảnh đất để chuyển hóa tâm, và phác họa lộ trình bảy điểm mà cả series sẽ đi qua.</itunes:summary>
+<enclosure url="https://vinhnguyenho.github.io/phapam-podcast/penor-rinpoche-podcast/episodes/emvtpxr6bd2k.mp3" length="5280705" type="audio/mpeg"/>
+<guid isPermaLink="false">emvtpxr6bd2k</guid>
+<pubDate>Thu, 29 Oct 2026 15:49:06 GMT</pubDate>
+<itunes:duration>440</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>

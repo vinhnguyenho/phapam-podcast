@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Universal compassion - Inspiring solutions for difficult times</title>
+<link>https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/</link>
+<atom:link href="https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/feed.xml" rel="self" type="application/rss+xml"/>
+<language>vi</language>
+<description>Universal compassion - Inspiring solutions for difficult times</description>
+<itunes:summary>Universal compassion - Inspiring solutions for difficult times</itunes:summary>
+<itunes:author>Keysang Gyatso</itunes:author>
+<itunes:owner><itunes:name>Keysang Gyatso</itunes:name><itunes:email>vinhnguyenho@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/cover.jpg"/>
+<image><url>https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/cover.jpg</url><title>Universal compassion - Inspiring solutions for difficult times</title><link>https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/</link></image>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Buddhism"/></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<lastBuildDate>Thu, 29 Oct 2026 17:39:21 GMT</lastBuildDate>
+<item>
+<title>Tập 1: Từ Khổ Đau Đến Tâm Từ Bi Phổ Quát - Giải Pháp Cho Thời Đại Khó Khăn</title>
+<description>Trong tập mở đầu, Bác sĩ thẩm mỹ Minh và Phật tử Bamboo khám phá tác phẩm kinh điển &apos;Universal Compassion&apos; của Geshe Kelsang Gyatso. Chương trình phân tích gốc rễ của khổ đau, nguồn gốc truyền thừa tâm bồ-đề, cùng những phương pháp thực hành chuyển hóa tâm linh thiết thực cho cuộc sống hiện đại.</description>
+<itunes:summary>Trong tập mở đầu, Bác sĩ thẩm mỹ Minh và Phật tử Bamboo khám phá tác phẩm kinh điển &apos;Universal Compassion&apos; của Geshe Kelsang Gyatso. Chương trình phân tích gốc rễ của khổ đau, nguồn gốc truyền thừa tâm bồ-đề, cùng những phương pháp thực hành chuyển hóa tâm linh thiết thực cho cuộc sống hiện đại.</itunes:summary>
+<enclosure url="https://vinhnguyenho.github.io/phapam-podcast/universal-compassion-inspiring-solutions-for-diffi/episodes/emvttmvysyne.mp3" length="21964800" type="audio/mpeg"/>
+<guid isPermaLink="false">emvttmvysyne</guid>
+<pubDate>Thu, 29 Oct 2026 17:32:38 GMT</pubDate>
+<itunes:duration>1830</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>

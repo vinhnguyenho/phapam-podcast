@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Rinpoche, Dudjom</title>
+<link>https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/</link>
+<atom:link href="https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/feed.xml" rel="self" type="application/rss+xml"/>
+<language>vi</language>
+<description>Rinpoche, Dudjom</description>
+<itunes:summary>Rinpoche, Dudjom</itunes:summary>
+<itunes:author>Dujom Rinpoche</itunes:author>
+<itunes:owner><itunes:name>Dujom Rinpoche</itunes:name><itunes:email>vinhnguyenho@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/cover.jpg"/>
+<image><url>https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/cover.jpg</url><title>Rinpoche, Dudjom</title><link>https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/</link></image>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Buddhism"/></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<lastBuildDate>Fri, 30 Oct 2026 10:08:52 GMT</lastBuildDate>
+<item>
+<title>Tập 1: Vì sao cần một bậc thầy? Mở đầu hành trình và tiêu chuẩn của vị thầy</title>
+<description>Tập mở đầu giới thiệu bản văn &apos;Ngọn đuốc soi đường đến tự do&apos; của Dudjom Rinpoche, giáo huấn về các pháp sơ khởi của Tinh Túy Tâm Không Hành Nữ. Minh và Bamboo bàn về cách đến với một buổi giảng pháp, về lý do bản văn nói chúng sinh &apos;như trẻ thơ&apos; không thể tự mình đi trọn con đường, và về những tiêu chuẩn giúp nhận ra một vị thầy chân chính trước khi trao trọn niềm tin. Tập cũng nói rõ những dấu hiệu của người thầy cần tránh xa.</description>
+<itunes:summary>Tập mở đầu giới thiệu bản văn &apos;Ngọn đuốc soi đường đến tự do&apos; của Dudjom Rinpoche, giáo huấn về các pháp sơ khởi của Tinh Túy Tâm Không Hành Nữ. Minh và Bamboo bàn về cách đến với một buổi giảng pháp, về lý do bản văn nói chúng sinh &apos;như trẻ thơ&apos; không thể tự mình đi trọn con đường, và về những tiêu chuẩn giúp nhận ra một vị thầy chân chính trước khi trao trọn niềm tin. Tập cũng nói rõ những dấu hiệu của người thầy cần tránh xa.</itunes:summary>
+<enclosure url="https://vinhnguyenho.github.io/phapam-podcast/rinpoche-dudjom/episodes/emvut3t5atvt.mp3" length="25407948" type="audio/mpeg"/>
+<guid isPermaLink="false">emvut3t5atvt</guid>
+<pubDate>Fri, 30 Oct 2026 10:05:55 GMT</pubDate>
+<itunes:duration>2117</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
